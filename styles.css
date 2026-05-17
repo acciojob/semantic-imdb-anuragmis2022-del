@@ -1,2 +1,43 @@
 
 /* Your CSS Code here. */
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+	text-align:space-evenly;
+	
+}
+#main{
+	display:flex;
+	justify-content:center;
+	align-items:space-around;
+	
+	
+}
+#nav-actor{
+	/* border:2px solid red; */
+	width:33vw;
+	height:60vh;
+	text-align:center;
+	
+	
+	
+}
+
+#middle{
+	/* border:2px solid red; */
+	width:33vw;
+	height:60vh;
+	
+	
+}
+#nav-quote{
+	/* border:2px solid red; */
+	width:33vw;
+	height:60vh;
+	
+	
+}
+.footer{
+	
+}
